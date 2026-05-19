@@ -27,5 +27,5 @@
 
 1. **انسخ المستودع:**
    ```bash
-   git clone https://github.com/your-username/kernexus-core.git
+   git clone https://github.com/scpp2025-cmyk/kernexus-core.git
    cd kernexus-core
